@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
   # Chirpy Jekyll Theme
 
@@ -74,7 +74,7 @@ If you like this project or have built something through it, please consider spo
 
 ## License
 
-This project is published under [MIT License][license].
+This project is published under [MIT License][license].  
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
